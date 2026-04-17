@@ -1,0 +1,6 @@
+{
+  "name": "Calculadora Sin TACC",
+  "description": "Calculadora de cantidades de ingredientes para recetas sin TACC con soporte para agregar recetas manuales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
